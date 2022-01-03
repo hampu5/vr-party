@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Used To This (TRAILS Remix).mp3-bc66786955119bf0c80b40b170ee1058.mp3str"
+
+[deps]
+
+source_file="res://Used To This (TRAILS Remix).mp3"
+dest_files=[ "res://.import/Used To This (TRAILS Remix).mp3-bc66786955119bf0c80b40b170ee1058.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
